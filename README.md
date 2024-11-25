@@ -1,6 +1,5 @@
-# Profil GitHub de John Doe
-
-![Présentation](C:\Users\adamb\OneDrive\Images\Captures d’écran\cv.jpg)
+![Présentation](![cv](https://github.com/user-attachments/assets/33bd16d1-1b47-4f98-a457-fe3916c941f8)
+)
 
 ## À propos de moi
 
