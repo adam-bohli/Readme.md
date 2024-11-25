@@ -1,5 +1,5 @@
-![Présentation](![cv](https://github.com/user-attachments/assets/33bd16d1-1b47-4f98-a457-fe3916c941f8)
-)
+https://github.com/user-attachments/assets/33bd16d1-1b47-4f98-a457-fe3916c941f8
+https://github.com/viclafouch/viclafouch/raw/master/img/pack.png
 
 ## À propos de moi
 
@@ -12,11 +12,11 @@ Joueur d'échecs depuis 10 ans, j'ai su développer ma créativité et un esprit
 
 ## Mes projets
 
-### [Projet 1 - Application Web](https://github.com/adam-bohli/projet1)
-Un projet de développement d'une application web avec **React** et **Node.js**.
+### [Projet 1 - Application Web](https://github.com/adam-bohli/SITE-WEBS)
+Un projet de développement d'une application web avec **HTML** et **CSS**.
 
-### [Projet 2 - Portfolio Personnel](https://github.com/adam-bohli/projet2)
-Un portfolio personnalisé réalisé avec **HTML**, **CSS**, et **JavaScript**.
+### [Projet 2 - TIC TAC TOE](https://github.com/adam-bohli/MORPION)
+Un portfolio personnalisé réalisé avec **PYTHON**
 
 
 ## Me suivre
